@@ -8,7 +8,7 @@
 - ✔ **Modular & Customizable** – Easily modify the design to fit different 3D printer models.  
 
 ## 🛠️ How to Build
-1. **Download** the STL files or laser-cut templates.  
+1. **Download** the STL files and laser-cut templates.  
 2. **Print and cut** the necessary parts using your **3D printer and Laser**.  
 3. **Assemble** the enclosure using basic tools.  
 
